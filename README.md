@@ -1,6 +1,12 @@
-# singleton
+<div align="center">
+  <h1> SINGLETON </h1>
+</div>
 
-Simple project representing the singleton project pattern
+# Code
+
+Simple project representing the singleton project pattern. In this example i used a singleton to represent a Log class for a system that needs to store and show erros/warnings for the user (IDE for example).
+
+# Definition
 
 The singleton design pattern is one of the twenty-three well-known "Gang of Four" design patterns that describe how to solve recurring design problems to design flexible and reusable object-oriented software with the aim of making it easier to implement, change, test, and reuse objects.[1]
 
