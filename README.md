@@ -4,7 +4,7 @@
 
 # Code
 
-Simple project representing the singleton project pattern. In this example i used a singleton to represent a Log class for a system that needs to store and show erros/warnings for the user (IDE for example).
+Simple project representing the singleton design pattern. In this example i used a singleton to represent a Log class for a system that needs to store and show erros/warnings for the user (IDE for example).
 
 # Definition
 
